@@ -20,4 +20,4 @@
 # Technology used
 - Nodejs
 - Express js
-- Nodemailer
+- Nodemailer 
