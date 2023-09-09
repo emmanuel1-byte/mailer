@@ -6,4 +6,11 @@
 # Getting Started
 - clone the repository
 
-  `git clone https://github.com/HilaryEmmanuel/Mailer.git`
+  ` git clone <https://github.com/HilaryEmmanuel/Mailer.git> `
+
+- Install dependencies
+  ` cd <myapp> `
+  ` npm install `
+
+- Build and run the project
+  ` node node ./bin/www `
