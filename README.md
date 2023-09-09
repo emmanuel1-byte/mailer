@@ -9,8 +9,10 @@
   ` git clone <https://github.com/HilaryEmmanuel/Mailer.git> `
 
 - Install dependencies
+  
   ` cd <myapp> `
   ` npm install `
 
 - Build and run the project
+  
   ` node node ./bin/www `
