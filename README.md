@@ -17,7 +17,7 @@
   
   ` node node ./bin/www `
 
-# Technology used
+# Technology Stack
 - Nodejs
 - Express js
 - Nodemailer 
