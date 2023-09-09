@@ -15,7 +15,7 @@
 
 - Build and run the project
   
-  ` node node ./bin/www `
+  ` npm start `
 
 # Technology Stack
 - Nodejs
