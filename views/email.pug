@@ -1,0 +1,26 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href="/stylesheets/email.css")
+        title Document
+    body 
+    block content 
+
+form(action="/email/send", method="post") 
+    h2 Email-Sender
+    input(type="text"  placeholder="hilaryemmanuel@gmail.com" readonly)
+    br
+    br
+    input(type="email" name="recieveremail" placeholder="Reciever Email" required)
+    br
+    br
+    input(type="text" name="subject" placeholder="subject" required)
+    br
+    br
+    textarea(placeholder="message" type="text" name="content" required)
+    br
+    br
+    input(type="submit" value="submit")
+    br

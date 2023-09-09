@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "readme": "node ./node_modules/node-readme/bin/node-readme" 
+  },
+  "engines": {
+    "node": "18.16.1"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "nodemailer": "^6.9.5",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "node-readme": "^0.1.9"
+  }
+}
