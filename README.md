@@ -16,3 +16,8 @@
 - Build and run the project
   
   ` node node ./bin/www `
+
+# Technology used
+- Nodejs
+- Express js
+- Nodemailer
